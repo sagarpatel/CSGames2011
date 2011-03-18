@@ -1,0 +1,2 @@
+C:\Users\Sagar\Downloads\GSMSample_4_0_PHONE\Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Sagar\Documents\BATTLEOFTHEAPPS\Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
